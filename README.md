@@ -14,20 +14,20 @@ The ___Guest Login App___ will record all of the logins made by the guests, incl
 
 1.  Registration
 
-![Register](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/Index.png)
+![Register](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/Index.png)
 
 2.  Login - In order to login you will need to enter the username "Ken-Drick" and the password "kendrip"
       (You can create your own username and password inside your database)
 
-![Login](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/login.png)
+![Login](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/login.png)
 
 3.  Guestlist
 
-![Log](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/Log.png)
+![Log](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/Log.png)
 
 4.  In the case of the user failing to enter the right password, they will recieve this warning:
 
-![Failed_Login](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/login_fail.png)
+![Failed_Login](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/login_fail.png)
 
 ___
 
@@ -51,12 +51,12 @@ ___
 
 ### [Kikooo1](https://github.com/Kikooo1 "Allan")
 
-![Allan](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/kikoo.jpg)
+![Allan](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/kikoo.jpg)
 
 ### [NgtzBogz](https://github.com/NgtzBogz "Elizalde")
-![Elizalde](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/elii.jpg)
+![Elizalde](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/elii.jpg)
 
 ### [Ken-Drick](https://github.com/Ken-Drick "Kendrick")
 
-![Kendrick](https://github.com/NgtzBogz/Practice_Set_5/blob/main/LogApp/Espedido_LogApp/img/sc/kenn.jpg)
+![Kendrick](https://github.com/Ken-Drick/Log-App-Scaling/blob/main/img/sc/kenn.jpg)
 
